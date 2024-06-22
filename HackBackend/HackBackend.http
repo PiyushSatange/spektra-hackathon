@@ -1,0 +1,6 @@
+@HackBackend_HostAddress = http://localhost:5113
+
+GET {{HackBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

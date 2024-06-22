@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\bin\Debug\net8.0\FetchAllData.exe
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\bin\Debug\net8.0\FetchAllData.deps.json
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\bin\Debug\net8.0\FetchAllData.runtimeconfig.json
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\bin\Debug\net8.0\FetchAllData.dll
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\bin\Debug\net8.0\FetchAllData.pdb
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAllData.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAllData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAllData.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAllData.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAllData.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAll.1AE60CAE.Up2Date
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAllData.dll
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\refint\FetchAllData.dll
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAllData.pdb
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\FetchAllData.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Project\Backend\FetchAllData\obj\Debug\net8.0\ref\FetchAllData.dll

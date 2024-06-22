@@ -1,0 +1,24 @@
+<div>
+  <select (change)="onSelect(region.value)" #region>
+    @for(r of regions.value; track r){
+      @if (r.metadata.regionCategory == 'Recommended') {
+        <option [value]="r.name">{{r.displayName}}</option>
+      }
+    }
+  </select>
+
+  <label>Select OS:</label><br>
+  <select>
+    <option value="linux">Linux</option>
+    <option value="windows">Windows</option>
+  </select>
+
+  <label>Select VM size:</label>
+  <select>
+    <option value="">64 GB</option>
+    <option value="">256 GB</option>
+    <option value="">512 GB</option>
+    <option value="">1 TB</option>
+  </select>
+
+</div>
